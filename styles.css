@@ -209,3 +209,27 @@ ul {
     /* border: 3px pink; */
     /* border-style: solid; */
 }
+
+.call-to-action-section {
+    /* border: 3px pink; */
+    /* border-style: solid; */
+    padding: 100px 200px;
+}
+
+.call-to-action-banner {
+    /* border: 3px red; */
+    /* border-style: solid; */
+    padding: 50px 100px;
+    background-color: #3882F6;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sign-up-button {
+    border: 3px white;
+    border-radius: 10px;
+    border-style: solid;
+    padding: 5px 40px;
+}
